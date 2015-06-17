@@ -1,0 +1,7 @@
+name: BukkitUtils
+main: averycowan.bukkit.util.Main
+version: 1.0
+commands:
+   speed:
+      description: Sets your fly speed.
+      usage: /speed <speed>
